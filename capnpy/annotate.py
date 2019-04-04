@@ -1,6 +1,6 @@
 # THIS FILE HAS BEEN GENERATED AUTOMATICALLY BY capnpy
 # do not edit by hand
-# generated on 2019-04-04 17:44
+# generated on 2019-04-04 17:53
 
 from capnpy import ptr as _ptr
 from capnpy.struct_ import Struct as _Struct
@@ -30,7 +30,7 @@ __capnpy_version__ = '0.5.4.dev7+ng2ca514d.d20190404'
 #### FORWARD DECLARATIONS ####
 
 class group(object):
-    __id__ = 12694526166034528397
+    __capnpy_id__ = 0xb02c044a1e63b88d
     targets_file = False
     targets_const = False
     targets_enum = False
@@ -44,7 +44,7 @@ class group(object):
     targets_param = False
     targets_annotation = False
 class nullable(object):
-    __id__ = 11296117080722892765
+    __capnpy_id__ = 0x9cc3dea2b1b5e7dd
     targets_file = False
     targets_const = False
     targets_enum = False
@@ -58,7 +58,7 @@ class nullable(object):
     targets_param = False
     targets_annotation = False
 class key(object):
-    __id__ = 14658097673689429382
+    __capnpy_id__ = 0xcb6c062c1b3cf586
     targets_file = False
     targets_const = False
     targets_enum = False
